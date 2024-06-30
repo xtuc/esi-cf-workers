@@ -1,0 +1,12 @@
+{
+  "name": "esi-cf-workers",
+  "version": "1.0.0",
+  "module": true,
+  "description": "Edge Side Includes (ESI) for Cloudflare Workers",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Sauleau <sven@sauleau.com>",
+  "license": "MIT"
+}
